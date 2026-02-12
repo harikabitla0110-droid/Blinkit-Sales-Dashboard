@@ -22,12 +22,6 @@ This Power BI dashboard analyzes Blinkit sales data to evaluate business perform
 ### Overview
 ![Overview](overview.png)
 
-### Sales Analysis
-![Sales](sales-analysis.png)
-
-### KPI Summary
-![KPI](kpi-summary.png)
-
 ## Key Insights
 - Identified top-performing product categories
 - Analyzed revenue distribution across cities
